@@ -2,22 +2,31 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Features and time
 
-Number and name of feature: ________________________________
+Number and name of feature: ____App____________________________
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: _1hr____
 
-Start time: _____
+Start time: _9:00am____
 
-Finish time: _____
+Finish time: 10:00am____
 
-Actual time needed to complete: _____
-
-
+Actual time needed to complete: _1hr____
 
 
 
 
 
+
+
+Number and name of feature: ____counter____________________________
+
+Estimate of time needed to complete: _1hr____
+
+Start time: __10:00am___
+
+Finish time: __11:00am___
+
+Actual time needed to complete: _1hr____
 
 
 
